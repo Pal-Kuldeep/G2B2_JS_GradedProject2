@@ -1,0 +1,38 @@
+#resumeContainer{
+  margin: auto;
+  width: 90%;
+}
+
+#jobSearchBox{
+  border: 2px solid black;
+  height: 25px;
+  font-size: 20px;
+}
+
+#previousPage{
+  position: absolute;
+  left: 60px;
+  height: 30px;
+  }
+
+#nextPage{
+  position:relative;
+  left: 260px;
+  height: 30px;
+  
+}
+#resumePageContainer{
+  margin:auto;
+}
+img{
+  float:right;
+  
+  height:180px;
+  width:150px;
+}
+
+#usrName {
+  background-color: lightblue;
+  width:auto;
+  height:200px;
+}

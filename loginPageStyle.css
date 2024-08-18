@@ -1,0 +1,37 @@
+body{
+  background-color: lightgrey;
+}
+
+#userDetailsContainer{
+ position:relative;
+ top:50px;
+ height: 280px; 
+ width : 60%;
+ margin:auto;
+ background-color : yellow;
+ box-shadow: 5px 5px 20px 10px gray;
+}
+
+#inputBoxContainer{
+  text-align: center;
+}
+
+input{
+  position: relative;
+  top:100px;
+  max-width: 300px;
+  height:25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+  
+button{
+  position:relative;
+  top:100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  font-size: 15px;
+  background-color:yellowgreen;
+  border: 2px solid black;
+  border-radius: 3px;
+  
+}
